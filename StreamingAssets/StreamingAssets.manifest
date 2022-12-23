@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 394398926
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 01_spacerace
+      Dependencies: {}

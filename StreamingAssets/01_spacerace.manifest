@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1671485962
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c47d0d408f5e466644eee85521e0863b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66a2e23469479e112c43cc8b831f0670
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d312ea986718c5047bfe4ea2c60aa1c3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/01_spacerace/example-prefab.prefab
+- Assets/BundledAssets/01_spacerace/material.prefab
+Dependencies: []
