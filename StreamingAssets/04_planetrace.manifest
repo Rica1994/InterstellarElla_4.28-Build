@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1500244325
+CRC: 2937094640
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6ef7efdef5fa8c25d67015c361488afc
+    Hash: 7f87503a1c4945f818c7ce46187e2b5e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 53785dd8e7468c3302f6c0c30811edc2
+    Hash: 87699515d2db68b2018a8672c08cbdbe
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -49,6 +49,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: bd0c533caeb113e45966b2e930976d96, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 360b400dd7e016a4e8b721b4f87bc601, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3222c72c21d96534c80b82c6a0882da6, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 134
@@ -65,5 +67,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/BundledAssets/04_remotecar/PlanetRace_Env.prefab
+- Assets/BundledAssets/04_planetrace/PlanetRace_Env.prefab
 Dependencies: []
