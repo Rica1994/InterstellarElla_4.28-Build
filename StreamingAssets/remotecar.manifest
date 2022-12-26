@@ -1,0 +1,139 @@
+ManifestFileVersion: 0
+CRC: 830951304
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 396499e9b5f0d428bc604f2e1808ae21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e21d56a139ec3a02abbde0bd39050453
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c46dc241d26de2645b36610e7e525ccb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c5d65412bba6b3448997da4b3a77838, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9bc3463213fba442a45d7a35e4a4af2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b64ce0a3291f1f44d9aefec11b500778, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a8e65b3f70434a46a65fe0934e3fd2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 109746945917157438a0c37176edbdbf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d91c55c43104713408e8d4b74451241e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e9220b6c4f798945b4185e8eccc36c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 880af93984ba07c4cb1111669343f087, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e0b41e9a3a47d545b65a6add80f94c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d553d26ac49e3f740a5676cf5ac9ff16, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45977bbae16431c46a013576a1aea384, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9b067ab303b8024a8031af6f9a47cac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad9d0fbbae8c316409bf35bcc41ce344, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1427aafbfd864234f8ea0661c23dab64, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b794599c78593cf43a6f6589e456de3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Prototype_0.1/03_RemoteCar.unity
+Dependencies: []

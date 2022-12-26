@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3499959400
+CRC: 4017332082
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -15,5 +15,17 @@ AssetBundleManifest:
       Name: 04_planetrace
       Dependencies: {}
     Info_4:
-      Name: 00_mainmenu
+      Name: mainmenu
+      Dependencies: {}
+    Info_5:
+      Name: spacerace
+      Dependencies: {}
+    Info_6:
+      Name: ellaexploring
+      Dependencies: {}
+    Info_7:
+      Name: remotecar
+      Dependencies: {}
+    Info_8:
+      Name: planetrace
       Dependencies: {}
