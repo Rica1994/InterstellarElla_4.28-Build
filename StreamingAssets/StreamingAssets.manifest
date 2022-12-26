@@ -1,7 +1,10 @@
 ManifestFileVersion: 0
-CRC: 394398926
+CRC: 496559331
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: 01_spacerace
+      Dependencies: {}
+    Info_1:
+      Name: 02_ellaexploring
       Dependencies: {}

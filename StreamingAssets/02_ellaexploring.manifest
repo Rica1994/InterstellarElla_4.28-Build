@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2602006410
+CRC: 711961942
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 468e6fdf6d175da680d7b7c819e3954a
+    Hash: 976fb26f9c17143b8e8b231841b52440
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a31a833a6d2515d7a4fe45dcf1ec92ac
+    Hash: 09c85fef084157f431c7f25b08f880d1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -29,33 +29,21 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
 - Class: 111
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 395666319f912c642b73b3c3ba83c6f3, type: 3}
+  Script: {fileID: 11500000, guid: b5d88874ea8280843b24bcb658a3552a, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 7b19fdb2172074148bc91c1f42893e71, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 3b331fc24b2547543959e63450a01e11, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 6fdbd40411e164048893f9764f806126, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 1ab2d7761c0137f46a094541603c7d72, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 72358b6adff3dad429684e20f5de1009, type: 3}
+  Script: {fileID: 11500000, guid: 3629840c9898ee74aaac611cbb2e2520, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a185552cadb891142b18787d9df274e9, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: bd0c533caeb113e45966b2e930976d96, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 360b400dd7e016a4e8b721b4f87bc601, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 546d090edc126a741847c01131e847c5, type: 3}
 - Class: 115
-  Script: {instanceID: 0}
-- Class: 134
   Script: {instanceID: 0}
 - Class: 135
   Script: {instanceID: 0}
@@ -69,5 +57,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/BundledAssets/01_spacerace/SpaceRace_Env.prefab
+- Assets/BundledAssets/02_ellaexploring/EllaExploring_Env.prefab
 Dependencies: []
